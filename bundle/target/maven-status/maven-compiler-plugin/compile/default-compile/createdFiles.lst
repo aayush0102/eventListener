@@ -1,0 +1,5 @@
+com\myorg\mylisteners\package-info.class
+com\myorg\mylisteners\impl\HelloServiceImpl.class
+com\myorg\aem\events\SimpleDSCComponent.class
+com\myorg\mylisteners\impl\filters\LoggingFilter.class
+com\myorg\mylisteners\HelloService.class
